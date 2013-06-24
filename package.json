@@ -1,0 +1,13 @@
+{
+	"name": "PiiMote",
+	"version": "0.0.1",
+	"readme": "readme.md",
+	"description": "use a wii remote with a raspberry pi",
+	"main": "PiiMote.js",
+	"dependencies": {
+		"nodemon":"0.7.2",
+		"underscore":"",
+		"optimist": "0.5.2",
+		"bluetooth-serial-port": "0.2.1"
+	}
+}
